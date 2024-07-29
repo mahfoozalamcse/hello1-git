@@ -1,5 +1,5 @@
 # hello1-git
-setting up git
+setting up git and 
 learning git setup
 basic commond of git
 and practice
