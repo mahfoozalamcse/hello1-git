@@ -2,7 +2,7 @@
 setting up git and 
 learning git setup
 basic commond of git
-and practice
+practice
 understand configration of git
 and deep drive of code
 
