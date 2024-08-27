@@ -4,5 +4,5 @@ learning git setup
 basic commond of git
 practice
 understand configration of git
-and deep drive of code
+and deep code
 
